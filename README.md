@@ -23,9 +23,11 @@ Responsive UI: Built with tkinter for a lightweight and user-friendly experience
 
 Ensure you have Python 3.x installed.
 No additional libraries are required beyond the standard tkinter and random modules, which come with Python.
-Copy the provided code into a .py file (e.g., tic_tac_toe.py).
-Run the script using:python tic_tac_toe.py
-
+Copy the provided code into a .py file.
+Run the script using:
+```shell
+python main.py
+```
 ## Code Structure
 
 Main Setup: Initializes the tkinter window and creates a 3x3 grid of buttons.
